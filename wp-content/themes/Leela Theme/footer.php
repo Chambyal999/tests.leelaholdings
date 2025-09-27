@@ -26,7 +26,7 @@ $footer_images = [
                     <div class="row pt-4 text-left">
                         <div class="col-lg-4 col-md-6">
                              <div class="footer-leela">
-                        <h4>About Leela Holdings</h4>
+                        <h4>About Atul Leela Holdings</h4>
                         <p>Leela Holdings is a diversified group across technology, education, retail, and logistics — dedicated to building businesses that last.</p>
                     </div>
                     <div>
